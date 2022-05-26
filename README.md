@@ -23,6 +23,7 @@ Moreover, the UV index is displayed with a color that indicates whether the UV c
   - [Screenshots](#screenshots)
   - [Contributing](#contributing)
   - [Contact](#contact)
+  - [Links](#deployed-links)
   - [License](#license)
 
 &nbsp;
@@ -96,6 +97,14 @@ If you would like to contribute or have any questions, please feel free to conta
 
 - Joe Choe | [Github](https://github.com/jchoe125) | [email](joechoe125@gmail.com)
 
+
+&nbsp;
+
+---
+# Links
+
+- [GitHub Repository](https://github.com/jchoe125/Server-Side-APIs-Weather-Dashboard)
+- [Deployed Application Link](https://jchoe125.github.io/Server-Side-APIs-Weather-Dashboard/)
 
 &nbsp;
 
